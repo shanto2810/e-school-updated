@@ -1,0 +1,139 @@
+
+.container{
+    background-color: rgb(209, 250, 249);
+}
+.xtend{
+    background-color: rgb(209, 250, 249);
+}
+.container-f{
+    background-color: rgb(43, 40, 40);
+    padding-bottom: 60px;
+}
+.xy{
+    background-color: white;
+    padding-bottom: 50px;
+
+}
+.c2{
+    background-color: white;
+
+}
+.red{
+    color: red;
+}
+.green{
+    color: rgb(29, 168, 115);
+}
+.purple{
+    color: purple;
+}
+.button
+{
+    padding: 05px 20px;
+   border-radius: 20px;
+   background-color: rgb(29, 168, 115);
+   border: none;
+   color: white;
+}
+.text{
+    padding-left: 120px;
+    padding-bottom: 80px;
+}
+.navbar-brand{
+    padding-left: 100px;
+}
+.imgs{
+    padding-left: 80px;
+    padding-right: 60px;
+    padding-bottom: 80px;
+}
+.col-x{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.card{
+    border: none;
+    width: 250px;
+    border-radius: 10px;
+    background-color: rgb(246, 250, 252);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.cb {
+    border: none;
+    box-shadow: 0px 0px 20px 5px rgb(238, 235, 235);
+    width: 350px;
+    border-radius: 10px;
+    background-color: white;
+    padding-left: 0px ;
+    padding-right: 5px ;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+.xx{
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px rgb(233, 226, 226);
+}
+.card-img-top{
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.cit {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+.card-title{
+    color: purple;
+}
+.head{
+    padding-bottom: 50px;
+}
+.c2{
+    padding-bottom: 80px;
+}
+.col{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.sp{
+    padding-top: 30px;
+}
+.test{
+    background-color: white;
+}
+.head2{
+    padding-bottom: 50px;
+}
+.imx{
+    padding-left: 250px;
+    padding-bottom: 100px;
+}
+.white{
+            color: white;
+            padding-left: 150px;
+            padding-top: 50px ;
+}
+.white-2{
+    color: white;
+    padding-top: 50px ;
+}
+.foot{
+    color: white;
+}
+.footer{
+    background-color:  rgb(42, 40, 43);
+    padding-bottom: 30px;
+}
